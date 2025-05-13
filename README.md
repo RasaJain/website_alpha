@@ -42,6 +42,3 @@ In concept. Open for contributors, dreamers, and builders.
 
 ---
 
-Let me know if you want a developer-style roadmap or just keep this as a heart-centered intro.
-
-
