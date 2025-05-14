@@ -1,4 +1,3 @@
----
 
 BujjiOS
 
@@ -17,8 +16,6 @@ The name is inspired by Bujji, the intelligent machine from Kalki 2898 AD. This 
 
 > "If it works, it works."
 — Every Mango Man, Ever
-
-
 
 Features (Planned & Possible):
 
@@ -39,6 +36,4 @@ Status:
 
 In concept. Open for contributors, dreamers, and builders.
 
-
----
 
